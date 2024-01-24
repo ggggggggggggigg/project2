@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container0{
+    padding-left: 15rem;
+}
+.container1{
+    margin-top: 0.5rem;
+    margin-left: 3rem;
+    display: flex;
+    align-items:center;
+}
+.container{
+    display: flex;
+}
+.a{
+    margin-left: 1rem;
+}
+.container3 .img{
+    width: 21rem;
+    height: 15rem;
+    margin-top: 10rem;
+    margin-right: 7rem;
+    margin-bottom: 3rem;
+}
+.container4 .simg{
+    width: 5rem;
+    margin-right: 1rem;
+}
+.container2{
+    display: flex;
+}
+.container5{
+    margin-top: 10rem;
+    margin-right: 17rem;
+    margin-left: 7rem;
+}
+.container5 a{
+    color: orangered;
+}
+.con{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(236, 244, 241);
+    margin-right: 16.2rem;
+}
+.co{
+    margin-left: 0.7rem;
+    margin-top: 0.2rem;
+    width: 5rem;
+}
+.container5 h1{
+    font-size: 2.5rem;
+}
+.c{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 0.2rem;
+}
+.ch{
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    color: orangered;
+    background-color: rgb(254, 200, 178);
+    margin-bottom: 1.2rem;
+    padding: 0.2rem;
+}
+.chh{
+    color: gray;
+}
+.ca{
+    display: flex;
+    margin-top: 1.7rem;
+}
+.cc{
+    margin-right: 2rem;
+    cursor: pointer;
+    margin-top: 0.9rem;
+    margin-bottom: 0.7rem;
+    margin-left: 1rem;
+}
+.ccc{
+    cursor: pointer;
+    margin-top: 0.9rem;
+    margin-bottom: 0.7rem;
+}
+.cca{
+    margin-top: 0.9rem;
+    margin-right: 2rem;
+    margin-bottom: 0.7rem;
+    
+}
+.x{
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 8rem;
+}
+
+.cccc{
+    display: flex;
+    cursor: pointer;
+    margin-left: 1rem;
+    background-color: orangered;
+    height: 3rem;
+    padding-top: 0.7rem;
+    width: 13rem;
+    color: white;
+    padding-left: 3.5rem;
+    border-radius: 10px;
+}
+.checked{
+    color: orange;
+}
+.xen{
+    margin-top: 0.2rem;
+    margin-right: 0.2rem;
+}
+.class{
+    display: flex;
+    margin-top: 0.7rem;
+    margin-left: 38rem;
+}
+.chi{
+    display: flex;
+    justify-content: center;
+    margin-left: 3rem;
+    background-color:rgb(214, 208, 199);
+    border-radius: 100%;
+    width: 2.5rem;
+    height: 2.5rem;
+    padding-top: 0.4rem;
+}
+.ddddd{
+    margin-top: 0.5rem;
+    cursor: pointer;
+}
+.ggggg{
+    display: flex;
+    margin-top: 5rem;
+}
+.hhhhh{
+    display: flex;
+    margin-left: 45rem;
+    margin-top: 1rem;
+    background-color: orangered;
+    height: 2.5rem;
+    width: 10rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+}
+.container4{
+    display: flex;
+}
+
+.vvvv{
+    cursor: pointer;
+}
+.bbbbb{
+    margin-bottom: 5rem;
+}
+.zzzz{
+    display: flex;
+}
+.fffff{
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 30rem;
+    margin-bottom: 2rem;
+}
+.ttt{
+    display: flex;
+    margin-right: 1.5rem;
+    background-color: gray;
+    width: 5rem;
+    height: 2.5rem;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.tt{
+    display: flex;
+    background-color: orangered;
+    width: 5rem;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
